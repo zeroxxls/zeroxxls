@@ -1,10 +1,17 @@
 # Kyrylo Khoroshun
 
 ### about
-﹂Apprentice application developer @ Arvato Systems, Germany<br>
-&nbsp;&nbsp;&nbsp;&nbsp;﹂Fachinformatiker für Anwendungsentwicklung<br>
-&nbsp;&nbsp;&nbsp;&nbsp;﹂currently building a React frontend in one project and a C# backend in another<br>
-﹂Junior Bachelor's degree, Zaporizhzhia Institute of Economics and Information Technologies, Ukraine
+﹂Apprentice application developer @ Arvato Systems<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂Fachinformatiker für Anwendungsentwicklung, vocational training in Germany<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂started with desktop development (C#, WPF), now working on web projects too<br>
+﹂Based in Rostock, Germany<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂studied in Ukraine, now building a career in Germany<br>
+﹂Junior Bachelor's degree, Zaporizhzhia Institute of Economics and Information Technologies<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂studied information technologies and built my first web projects there<br>
+﹂Most interested in software architecture<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂I like splitting projects into independent modules that stay easy to maintain<br>
+&nbsp;&nbsp;&nbsp;&nbsp;﹂built Luminio alone as my graduation project, from design to deployment<br>
+﹂Learning by building things
 
 ### stack
 <img src="https://skillicons.dev/icons?i=react,redux,tailwind,js,ts,nodejs,express,mongodb,cs,dotnet,git" alt="Stack">
