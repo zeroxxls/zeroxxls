@@ -7,7 +7,7 @@
 ﹂Junior Bachelor's degree, Zaporizhzhia Institute of Economics and Information Technologies, Ukraine
 
 ### stack
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind,js,ts,nodejs,express,mongodb,cs,dotnet,git" alt="Stack">
+<img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,redux,nodejs,express,mongodb,cs,dotnet,git" alt="Stack">
 
 ## Featured project
 
