@@ -29,6 +29,6 @@ Learning by building things. Mostly C# and React lately.
 
 ## Featured project
 
-[![Luminio](assets/luminio-banner.png)](https://web-app-beryl-gamma.vercel.app/)
+[![Luminio](590363128-da5c1b97-c748-4053-8bf2-2a9787cf4b1f.png)](https://web-app-beryl-gamma.vercel.app/)
 
 **[Luminio: 3D marketplace →](https://web-app-beryl-gamma.vercel.app/)**
