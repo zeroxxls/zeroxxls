@@ -11,9 +11,8 @@
 
 ## Featured project
 
-| <a href="https://web-app-beryl-gamma.vercel.app/"><img src="590363128-da5c1b97-c748-4053-8bf2-2a9787cf4b1f.png" alt="Luminio" width="320"></a> |
-| :---: |
-| **[Luminio](https://web-app-beryl-gamma.vercel.app/)**<br>3D marketplace/Graduation project |
-| <a href="https://my-web-git-master-kirills-projects-585038a6.vercel.app/"><img src="Screenshot_25.png" alt="Portfolio" width="320"></a> |
-| :---: |
-| **[kk.](https://my-web-git-master-kirills-projects-585038a6.vercel.app/)**<br>Web Portfolio |
+## Featured project
+
+| <a href="https://web-app-beryl-gamma.vercel.app/"><img src="590363128-da5c1b97-c748-4053-8bf2-2a9787cf4b1f.png" alt="Luminio" width="320"></a> | <a href="https://my-web-git-master-kirills-projects-585038a6.vercel.app/"><img src="Screenshot_25.png" alt="Portfolio" width="320"></a> |
+| :---: | :---: |
+| **[Luminio](https://web-app-beryl-gamma.vercel.app/)**<br>3D marketplace/Graduation project | **[kk.](https://my-web-git-master-kirills-projects-585038a6.vercel.app/)**<br>Web Portfolio |
